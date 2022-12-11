@@ -29,7 +29,7 @@ Client submits job to resource manager. YARN creates
 * Container - managed by node managers, it is virtualized independent server. it has it own RAM, CPU, Disk and network.
 
 
-![hadoop eco-system](./img/hadoop_ecosystem.png)
+![hadoop eco-system](../images/hadoop_ecosystem.png)
 
 MapReduce
 
